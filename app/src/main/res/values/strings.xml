@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraGaleryWebServer</string>
+    <string name="ambil_foto">Ambil Foto</string>
+    <string name="load_foto">Lihat Foto</string>
+    <string name="close_foto">Hilangkan Foto</string>
+    <string name="delete_foto">Hapus Foto</string>
+</resources>
